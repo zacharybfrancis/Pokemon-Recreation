@@ -1,0 +1,7 @@
+Server/Client Demo - 4 hrs
+Animation Demo - 3 hrs
+Thanksgiving Break:
+Trying to integrate sockets with animation demo - 8/9 hr
+adding single player enhancements to the game after giving up on socket - 1hr
+Dec 8th-9th: 15 hours
+Dec 9th-10th: 15 hours
